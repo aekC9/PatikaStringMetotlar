@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\bin\Debug\net9.0\PatikaStringMetotlar.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\bin\Debug\net9.0\PatikaStringMetotlar.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\bin\Debug\net9.0\PatikaStringMetotlar.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\bin\Debug\net9.0\PatikaStringMetotlar.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\bin\Debug\net9.0\PatikaStringMetotlar.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\refint\PatikaStringMetotlar.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\PatikaStringMetotlar.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaStringMetotlar\obj\Debug\net9.0\ref\PatikaStringMetotlar.dll
